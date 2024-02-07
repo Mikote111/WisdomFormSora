@@ -1,0 +1,25 @@
+title: Final Form Sora
+description: Sora will be using the Final Drive Form outfit from KH2!
+assets:
+- name: remastered\chara\pc\p_ex01\mig\0\bin\p_ex010.pmo\h_ex010_02.dds
+  multi:
+  - name: remastered\chara\high\p_ex01\mig\0\bin\h_ex010.pmo\h_ex010_02.dds
+  method: copy
+  source: 
+  - name: p_ex010\h_ex010_02.dds
+- name: remastered\chara\pc\p_ex01\mig\0\bin\p_ex010.pmo\p_ex010_01.dds
+  multi:
+  - name: remastered\chara\high\p_ex01\mig\0\bin\h_ex010.pmo\h_ex010_01.dds
+  method: copy
+  source: 
+  - name: p_ex010\p_ex010_01.dds
+- name: remastered\chara\pc\p_ex01\mig\0\bin\p_ex010.pmo\p_ex010_02.dds
+  method: copy
+  source: 
+  - name: p_ex010\p_ex010_02.dds
+- name: remastered\chara\pc\p_ex01\mig\0\bin\p_ex010.pmo\p_ex010_04.dds
+  multi:
+  - name: remastered\chara\high\p_ex01\mig\0\bin\h_ex010.pmo\h_ex010_04.dds
+  method: copy
+  source: 
+  - name: p_ex010\p_ex010_04.dds
